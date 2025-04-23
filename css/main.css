@@ -1,23 +1,18 @@
-/*#main-paragraph-styling {*/
-/*    color: #722020;*/
-/*    font-family: 'Roboto', sans-serif;*/
-/*}*/
 
-.main-p {
-    color: #722020;
-    font-family: 'Roboto', sans-serif;
-    font-size: 70px;
-    font-weight: 700;
-    text-decoration: underline;
-    text-space: 100px;
+.image {
+    width: 500px;
+    height: 650px;
+    background-image: url("../images/Money rules.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 10px;
+    transition: all ease-in-out 0.5s;
+
 }
 
-.test-div {
-    background-color: aquamarine;
-    width: 100px;
-    height: 100px;
-    margin-left: 200px;
-    margin-top: 80px;
-    border: #722020 solid 5px;
-    cursor: pointer;
+.image:hover {
+    background-image: url("../images/house.jpg");
+
+
 }
