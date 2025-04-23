@@ -1,0 +1,23 @@
+/*#main-paragraph-styling {*/
+/*    color: #722020;*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*}*/
+
+.main-p {
+    color: #722020;
+    font-family: 'Roboto', sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-space: 100px;
+}
+
+.test-div {
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 80px;
+    border: #722020 solid 5px;
+    cursor: pointer;
+}
