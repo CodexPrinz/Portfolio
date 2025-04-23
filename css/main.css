@@ -21,3 +21,8 @@
     border: #722020 solid 5px;
     cursor: pointer;
 }
+
+.image {
+    width: 200px;
+    margin: 20px;
+}
